@@ -67,6 +67,10 @@ If you'd like to support the project, consider donating via any of these:
 
 ## Gallery
 
+### Vanta (Script Hub)
+
+![Vanta UI Preview](assets/gallery/vanta.png)
+
 ### [Myriad General Validity Test](https://github.com/Proton-Utilities/Myriad)
 
 ![Standards](assets/gallery/myriad/standards.png)
